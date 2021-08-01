@@ -1,9 +1,10 @@
 # matanamart
 
-Matana Mart is an online application for delivery and ordering food and drinks at Matana University. It helps people easier to order food and drink by using this app.
+Matana Mart is an online application for delivery and ordering food and drinks at Matana University.<br>It helps people easier to order food and drink by using this app.
 
 <p float="left">
   <img src="/screenshoots/Screenshot_1608910694.png" width="300" />
+  <img src="/screenshoots/Screenshot_1608910703.png" width="300" />
   <img src="/screenshoots/Screenshot_1608910716.png" width="300" />
 </p>
 
