@@ -1,6 +1,8 @@
 # matanamart
 
-A new Flutter application.
+Matana Mart is an online application for delivery and ordering food and drinks at Matana University. It helps people easier to order food and drink by using this app.
+![Home Page](/screenshoots/Screenshot_1608910694.png?raw=true)
+![Menu](/screenshoots/Screenshot_1608910716.png?raw=true)
 
 ## Getting Started
 
